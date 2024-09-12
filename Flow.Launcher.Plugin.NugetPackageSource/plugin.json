@@ -1,0 +1,12 @@
+{
+  "ID": "6a1a829a-733f-4c39-93c9-e1835def561e",
+  "ActionKeyword": "nuget",
+  "Name": "Nuget Package Source",
+  "Description": "Manage Nuget Package Sources",
+  "Author": "N.Duong",
+  "Version": "0.2.1",
+  "Language": "csharp",
+  "Website": "https://github.com/NDiiong/Flow.Launcher.Plugin.NugetPackageSource.git",
+  "IcoPath": "Images/icon.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.NugetPackageSource.dll"
+}
